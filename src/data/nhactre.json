@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "album":"/imgSongData/linhphi.jpg",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Gặp lại ta năm 60",
+            "path": "/chude/music/nhactre/60.mp3",
+            "singer": "Ong bae x Erik"
+        },
+        {
+            "id": 2,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Bát cơm mặn",
+            "path": "/chude/music/nhactre/batcomman.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 3,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Bước qua đời nhau",
+            "path": "/chude/music/nhactre/buocquadoinhau.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 4,
+            "img":"/chude/image/nhactre/duyendotroi.jpg",
+            "name": "Duyên do trời, phận tại ta",
+            "path": "/chude/music/nhactre/duyendotroi.mp3",
+            "singer": "Voi Bản Đôn"
+        },
+        {
+            "id": 5,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Rồi em sẽ gặp một chàng trai khác",
+            "path": "/chude/music/nhactre/changtraikhac.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 6,
+            "img":"/chude/image/nhactre/hoanghonthang8.jpg",
+            "name": "Hoàng hôn thág 8 ",
+            "path": "/chude/music/nhactre/hoanghonthang8.mp3",
+            "singer": "Panda"
+        },
+        {
+            "id": 7,
+            "img":"/chude/image/nhactre/duyendotroi.jpg",
+            "name": "Hoàng hôn thág 8 ",
+            "path": "/chude/music/nhactre/khoalybiet.mp3",
+            "singer": "Panda"
+        },
+        {
+            "id": 8,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Là anh đó",
+            "path": "/chude/music/nhactre/laanhdo.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 9,
+            "img":"/chude/image/nhactre/60.jpg",
+            "name": "Giá như cô ấy không xuất hiện",
+            "path": "/chude/music/nhactre/neunhucoay.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 10,
+            "img":"/chude/image/nhactre/roibo.jpg",
+            "name": "Rời bỏ",
+            "path": "/chude/music/nhactre/roibo.mp3",
+            "singer": "Ong bae"
+        },
+        {
+            "id": 11,
+            "img":"/chude/image/nhactre/thuongem.jpg",
+            "name": "Thương em",
+            "path": "/chude/music/nhactre/thuongem.mp3",
+            "singer": "Kỳ Lân"
+        },
+        {
+            "id": 12,
+            "img":"/chude/image/nhactre/neukhongvui.jpg",
+            "name": "Nếu không vui đã là sai rồi",
+            "path": "/chude/music/nhactre/neukhongvui.mp3",
+            "singer": "Gấu trúc"
+        }
+        
+    ]
+}

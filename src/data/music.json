@@ -1,0 +1,86 @@
+{
+    "name": "Diaries Of A Hero",
+    "album":"/images/albumCovers/CharliePuth.jpg",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "img":"/imgSongData/linhphi.jpg",
+            "name": "Em Kể Anh Nghe",
+            "path": "/songsData/EmKeAnhNghe-LinhPhi.mp3",
+            "singer": "Linh Phi"
+        },
+        {
+            "id": 2,
+            "img":"/imgSongData/MiuLe.jpg",
+            "name": "Anh đang nơi đâu",
+            "path": "/songsData/AnhDangNoiDau-MiuLe.mp3",
+            "singer": "Miu Lê"
+        },
+        {
+            "id": 3,
+            "img":"/imgSongData/coaycuaanhay.jpg",
+            "name": "Cô ấy của anh ấy",
+            "path": "/songsData/coaycuaanhay-baoanh.mp3",
+            "singer": "Bảo Anh"
+        },
+        {
+            "id": 4,
+            "img":"/imgSongData/laulaunhaclai.jpg",
+            "name": "Lâu lâu nhắc lại",
+            "path": "/songsData/laulaunhaclai-hanhi.mp3",
+            "singer": "Hà Nhi"
+        },
+        {
+            "id": 5,
+            "img":"/imgSongData//NothingInYourEyes2.jpg",
+            "name": "Nothing In Your Eyes 2",
+            "path": "/songsData/NothingInYourEyes2.mp3",
+            "singer": "Mr T x YanBi x Bảo Thy"
+        },
+        {
+            "id": 6,
+            "img":"/imgSongData//NothingInYourEyes2.jpg",
+            "name": "Nothing In Your Eyes 2",
+            "path": "/songsData/NothingInYourEyes2.mp3",
+            "singer": "Mr T x YanBi x Bảo Thy"
+        },
+        {
+            "id": 7,
+            "img":"/imgSongData//emcuangayhomqua.jpg",
+            "name": "Em của ngày hôm qua",
+            "path": "/songsData/emcuangayhomqua.mp3",
+            "singer": "Sơn Tùng MTP"
+        },
+        {
+            "id": 8,
+            "img":"/imgSongData//chayngaydi.jpg",
+            "name": "Chạy ngay đi",
+            "path": "/songsData/chayngaydi.mp3",
+            "singer": "Sơn Tùng MTP"
+        },
+        {
+            "id": 9,
+            "img":"/imgSongData//haytraochoanh.jpg",
+            "name": "Hãy trao cho anh",
+            "path": "/songsData/haytraochoanh.mp3",
+            "singer": "Sơn Tùng MTP ft. Snoop Dogg"
+        },
+        {
+            "id": 10,
+            "img":"/imgSongData//nangamxadan.jpg",
+            "name": "Nắng ấm xa dần",
+            "path": "/songsData/nangamxadan.mp3",
+            "singer": "Sơn Tùng MTP"
+        },
+        {
+            "id": 11,
+            "img":"/imgSongData//conmuangangqua.jpg",
+            "name": "Cơn mưa ngang qua",
+            "path": "/songsData/conmuangangqua.mp3",
+            "singer": "Sơn Tùng MTP"
+        }
+
+        
+    ]
+}

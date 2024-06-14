@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "album":"/imgSongData/linhphi.jpg",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "img":"/chude/image/remix/anhsoyeu.jpg",
+            "name": "Anh sợ yêu",
+            "path": "/chude/music/remix/anhsoyeu.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 2,
+            "img":"/chude/image/remix/chiconnho.jpg",
+            "name": "Chỉ còn những mùa nhớ",
+            "path": "/chude/music/remix/chiconnho.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 3,
+            "img":"/chude/image/remix/chuabaogio.jpg",
+            "name": "Chưa bao giờ",
+            "path": "/chude/music/remix/chuabaogio.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 4,
+            "img":"/chude/image/remix/cola.jpg",
+            "name": "Con cò",
+            "path": "/chude/music/remix/cola.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 5,
+            "img":"/chude/image/remix/dungainhacvecoay.jpg",
+            "name": "Đừng ai nhắc về cô ấy",
+            "path": "/chude/music/remix/dungainhac.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 6,
+            "img":"/chude/image/remix/emlamgitoinay.jpg",
+            "name": "Em làm gì tối nay",
+            "path": "/chude/music/remix/emlamgitoinay.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 7,
+            "img":"/chude/image/remix/lamsao.jpg",
+            "name": "Em ơi anh phải làm sao?",
+            "path": "/chude/music/remix/emoi.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 8,
+            "img":"/chude/image/remix/guitinhyeunho.jpg",
+            "name": "Gửi tình yêu nhỏ",
+            "path": "/chude/music/remix/guitinhyeunho.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 9,
+            "img":"/chude/image/remix/haituyeu.jpg",
+            "name": "Hai từ yêu và thương khó quá",
+            "path": "/chude/music/remix/haituyeu.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 10,
+            "img":"/chude/image/remix/khoc.jpg",
+            "name": "Khóc ở trong club",
+            "path": "/chude/music/remix/khoc.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 11,
+            "img":"/chude/image/remix/tontai.jpg",
+            "name": "Nếu em còn tồn tại",
+            "path": "/chude/music/remix/tontai.mp3",
+            "singer": "Remix"
+        },
+        {
+            "id": 12,
+            "img":"/chude/image/remix/vokich.jpg",
+            "name": "Vở kịch của em",
+            "path": "/chude/music/remix/vokich.mp3",
+            "singer": "Remix"
+        }
+        
+    ]
+}

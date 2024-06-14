@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "album":"/chude/image/accoustic/anhsaovabautroi.jpg",
+    "releaseYear": "",
+    "tracks": [
+        {
+            "id": 1,
+            "img":"/chude/image/accoustic/anhsaovabautroi.jpg",
+            "name": "Ánh sao và bầu trời",
+            "path": "/chude/music/accoustic/anhsaovabautroi.mp3",
+            "singer": "Trí"
+        },
+        {
+            "id": 2,
+            "img":"/chude/image/accoustic/benaybennay.jpg",
+            "name": "Bên Ấy Bên Này",
+            "path": "/chude/music/accoustic/benaybennay.mp3",
+            "singer": "Long"
+        },
+        {
+            "id": 3,
+            "img":"/chude/image/accoustic/buocquamuacodon.jpg",
+            "name": "Bước qua mùa cô đơn",
+            "path": "/chude/music/accoustic/buocquamuacodon.mp3",
+            "singer": "Vũ"
+        },
+        {
+            "id": 4,
+            "img":"/chude/image/accoustic/chieuhomay.jpg",
+            "name": "Chiều hôm ấy",
+            "path": "/chude/music/accoustic/chieuhomay.mp3",
+            "singer": "Jaykii"
+        },
+        {
+            "id": 5,
+            "img":"/chude/image/accoustic/choanhnhe.jpg",
+            "name": "Chờ anh nhé",
+            "path": "/chude/music/accoustic/choanhnhe.mp3",
+            "singer": "Hoàng Dũng"
+        },
+        {
+            "id": 6,
+            "img":"/chude/image/accoustic/duongmotchieu.jpg",
+            "name": "Đường một chiều",
+            "path": "/chude/music/accoustic/duongmotchieu.mp3",
+            "singer": "Hoàng Tú"
+        },
+        {
+            "id": 7,
+            "img":"/chude/image/accoustic/emngayxuakhacroi.jpg",
+            "name": "Em ngày xưa khác rồi",
+            "path": "/chude/music/accoustic/emngayxuakhacroi.mp3",
+            "singer": "Hiền Hồ"
+        },
+        {
+            "id": 8,
+            "img":"/chude/image/accoustic/haytraochoanh.jpg",
+            "name": "Hãy trao cho anh",
+            "path": "/chude/music/accoustic/haytraochoanh.mp3",
+            "singer": "Ngô Lan Hương"
+        },
+        {
+            "id": 9,
+            "img":"/chude/image/accoustic/lalung.jpg",
+            "name": "Lạ lùng",
+            "path": "/chude/music/accoustic/lalung.mp3",
+            "singer": "Vũ"
+        },
+        {
+            "id": 10,
+            "img":"/chude/image/accoustic/ngaymainguoitalaychong.jpg",
+            "name": "Ngày mai người ta lấy chồng",
+            "path": "/chude/music/accoustic/ngaymainguoitalaychong.mp3",
+            "singer": "Anh Tú"
+        },
+        {
+            "id": 11,
+            "img":"/chude/image/accoustic/nguoitacoyeuminhdau.jpg",
+            "name": "Người ta có thương mình đâu",
+            "path": "/chude/music/accoustic/nguoitacothuongminhdau.mp3",
+            "singer": "Cover"
+        },
+        {
+            "id": 12,
+            "img":"/chude/image/accoustic/nguoitanoi.jpg",
+            "name": "Người ta nói",
+            "path": "/chude/music/accoustic/nguoitanoi.mp3",
+            "singer": "Accoustic"
+        }
+    ]
+}
+
